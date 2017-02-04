@@ -1,22 +1,17 @@
 # CSC320-Sodoku
-# CSC 320 Project readMe.txt
-# Yuwei Zhang V00805647
-# Zihan Ye    V00793984
+Yuwei Zhang V00805647
+Zihan Ye    V00793984
 
 This .zip file includes 2 program classes: 
-	
 
 	CNF.java
 	
 	Result.java
 
-
 The description of each method is included in CNF.java and Result.java as comments, please check there if needed.
 
-
 How to encode (transform a puzzle into a standard cnf format):
-
-	1. Compile CNF.java:
+1. Compile CNF.java:
 		
 		
 			
@@ -24,7 +19,7 @@ How to encode (transform a puzzle into a standard cnf format):
 
 	
 		
-	2. Run CNF with the input file *.txt, for example:
+2. Run CNF with the input file *.txt, for example:
 	
 
 		
