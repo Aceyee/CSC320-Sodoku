@@ -3,7 +3,8 @@ Yuwei Zhang V00805647
  
 Zihan Ye    V00793984
 
-This .zip file includes 2 program classes: 
+
+This project includes 2 program classes: 
 
 	CNF.java
 	
